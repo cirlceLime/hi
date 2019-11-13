@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hi/static/css/main.fc840724.chunk.css",
-    "main.js": "/hi/static/js/main.77afe284.chunk.js",
-    "main.js.map": "/hi/static/js/main.77afe284.chunk.js.map",
+    "main.css": "/hi/static/css/main.e46d25c6.chunk.css",
+    "main.js": "/hi/static/js/main.544648d6.chunk.js",
+    "main.js.map": "/hi/static/js/main.544648d6.chunk.js.map",
     "runtime-main.js": "/hi/static/js/runtime-main.c27c0162.js",
     "runtime-main.js.map": "/hi/static/js/runtime-main.c27c0162.js.map",
     "static/css/2.aa7fcd32.chunk.css": "/hi/static/css/2.aa7fcd32.chunk.css",
-    "static/js/2.46886589.chunk.js": "/hi/static/js/2.46886589.chunk.js",
-    "static/js/2.46886589.chunk.js.map": "/hi/static/js/2.46886589.chunk.js.map",
+    "static/js/2.41b7abb2.chunk.js": "/hi/static/js/2.41b7abb2.chunk.js",
+    "static/js/2.41b7abb2.chunk.js.map": "/hi/static/js/2.41b7abb2.chunk.js.map",
     "index.html": "/hi/index.html",
-    "precache-manifest.6a42e8a27d81a11e44d6d7242be1bffc.js": "/hi/precache-manifest.6a42e8a27d81a11e44d6d7242be1bffc.js",
+    "precache-manifest.65b12f29bda900292fa55521ba03cb1c.js": "/hi/precache-manifest.65b12f29bda900292fa55521ba03cb1c.js",
     "service-worker.js": "/hi/service-worker.js",
     "static/css/2.aa7fcd32.chunk.css.map": "/hi/static/css/2.aa7fcd32.chunk.css.map",
-    "static/css/main.fc840724.chunk.css.map": "/hi/static/css/main.fc840724.chunk.css.map",
+    "static/css/main.e46d25c6.chunk.css.map": "/hi/static/css/main.e46d25c6.chunk.css.map",
     "static/media/1.jpg": "/hi/static/media/1.bee835eb.jpg",
     "static/media/10.jpg": "/hi/static/media/10.9d7f5472.jpg",
     "static/media/11.jpg": "/hi/static/media/11.de4838c9.jpg",
@@ -29,15 +29,17 @@
     "static/media/8.jpg": "/hi/static/media/8.cbd1462f.jpg",
     "static/media/9.jpg": "/hi/static/media/9.cd78a993.jpg",
     "static/media/avatar.svg": "/hi/static/media/avatar.d023c148.svg",
+    "static/media/bill.34b66e53.svg": "/hi/static/media/bill.34b66e53.svg",
     "static/media/domed.jpg": "/hi/static/media/domed.2b027532.jpg",
+    "static/media/icon_one.2f10e6e4.svg": "/hi/static/media/icon_one.2f10e6e4.svg",
     "static/media/pay-day.467bad2c.svg": "/hi/static/media/pay-day.467bad2c.svg",
     "static/media/rangeHood.webp": "/hi/static/media/rangeHood.9138abd2.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.c27c0162.js",
     "static/css/2.aa7fcd32.chunk.css",
-    "static/js/2.46886589.chunk.js",
-    "static/css/main.fc840724.chunk.css",
-    "static/js/main.77afe284.chunk.js"
+    "static/js/2.41b7abb2.chunk.js",
+    "static/css/main.e46d25c6.chunk.css",
+    "static/js/main.544648d6.chunk.js"
   ]
 }
