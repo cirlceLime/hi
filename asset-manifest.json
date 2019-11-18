@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hi/static/css/main.2b4b69dd.chunk.css",
-    "main.js": "/hi/static/js/main.ccb65095.chunk.js",
-    "main.js.map": "/hi/static/js/main.ccb65095.chunk.js.map",
+    "main.css": "/hi/static/css/main.51a7bd1c.chunk.css",
+    "main.js": "/hi/static/js/main.3656860c.chunk.js",
+    "main.js.map": "/hi/static/js/main.3656860c.chunk.js.map",
     "runtime-main.js": "/hi/static/js/runtime-main.c27c0162.js",
     "runtime-main.js.map": "/hi/static/js/runtime-main.c27c0162.js.map",
     "static/css/2.aa7fcd32.chunk.css": "/hi/static/css/2.aa7fcd32.chunk.css",
-    "static/js/2.f6e803ba.chunk.js": "/hi/static/js/2.f6e803ba.chunk.js",
-    "static/js/2.f6e803ba.chunk.js.map": "/hi/static/js/2.f6e803ba.chunk.js.map",
+    "static/js/2.536d5b37.chunk.js": "/hi/static/js/2.536d5b37.chunk.js",
+    "static/js/2.536d5b37.chunk.js.map": "/hi/static/js/2.536d5b37.chunk.js.map",
     "index.html": "/hi/index.html",
-    "precache-manifest.676df11912c09370d23d6fa1dc2a1618.js": "/hi/precache-manifest.676df11912c09370d23d6fa1dc2a1618.js",
+    "precache-manifest.abcac321cab2e896f2a683a9042b7ea7.js": "/hi/precache-manifest.abcac321cab2e896f2a683a9042b7ea7.js",
     "service-worker.js": "/hi/service-worker.js",
     "static/css/2.aa7fcd32.chunk.css.map": "/hi/static/css/2.aa7fcd32.chunk.css.map",
-    "static/css/main.2b4b69dd.chunk.css.map": "/hi/static/css/main.2b4b69dd.chunk.css.map",
+    "static/css/main.51a7bd1c.chunk.css.map": "/hi/static/css/main.51a7bd1c.chunk.css.map",
     "static/media/1.jpg": "/hi/static/media/1.bee835eb.jpg",
     "static/media/10.jpg": "/hi/static/media/10.9d7f5472.jpg",
     "static/media/11.jpg": "/hi/static/media/11.de4838c9.jpg",
@@ -30,6 +30,7 @@
     "static/media/9.jpg": "/hi/static/media/9.cd78a993.jpg",
     "static/media/avatar.svg": "/hi/static/media/avatar.d023c148.svg",
     "static/media/bill.34b66e53.svg": "/hi/static/media/bill.34b66e53.svg",
+    "static/media/index.scss": "/hi/static/media/close.75990362.svg",
     "static/media/domed.jpg": "/hi/static/media/domed.2b027532.jpg",
     "static/media/icon_one.2f10e6e4.svg": "/hi/static/media/icon_one.2f10e6e4.svg",
     "static/media/pay-day.467bad2c.svg": "/hi/static/media/pay-day.467bad2c.svg",
@@ -38,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.c27c0162.js",
     "static/css/2.aa7fcd32.chunk.css",
-    "static/js/2.f6e803ba.chunk.js",
-    "static/css/main.2b4b69dd.chunk.css",
-    "static/js/main.ccb65095.chunk.js"
+    "static/js/2.536d5b37.chunk.js",
+    "static/css/main.51a7bd1c.chunk.css",
+    "static/js/main.3656860c.chunk.js"
   ]
 }
