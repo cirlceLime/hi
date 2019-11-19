@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3831fca5157a59f8e1feb5fa2d4e21ae",
+    "revision": "9a17806f252d27ca64170d000500576d",
     "url": "/hi/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hi/static/css/2.aa7fcd32.chunk.css"
   },
   {
-    "revision": "dbd51461b3517b140827",
+    "revision": "70af90591dd76fd3625e",
     "url": "/hi/static/css/main.21adb15f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hi/static/js/2.536d5b37.chunk.js"
   },
   {
-    "revision": "dbd51461b3517b140827",
-    "url": "/hi/static/js/main.b7625208.chunk.js"
+    "revision": "70af90591dd76fd3625e",
+    "url": "/hi/static/js/main.f263b961.chunk.js"
   },
   {
     "revision": "4b5eecc37121b372303d",
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hi/static/media/pay-day.467bad2c.svg"
   },
   {
-    "revision": "9138abd275091e17f0047d1cbd8736bd",
-    "url": "/hi/static/media/rangeHood.9138abd2.webp"
+    "revision": "a444ba20d9becad2b2ec2ae3187b88dc",
+    "url": "/hi/static/media/rangeHood.a444ba20.png"
   }
 ]);
