@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hi/static/css/main.fbcd4ba6.chunk.css",
-    "main.js": "/hi/static/js/main.5ef1385c.chunk.js",
-    "main.js.map": "/hi/static/js/main.5ef1385c.chunk.js.map",
+    "main.css": "/hi/static/css/main.f6ed4a2f.chunk.css",
+    "main.js": "/hi/static/js/main.771ba68c.chunk.js",
+    "main.js.map": "/hi/static/js/main.771ba68c.chunk.js.map",
     "runtime-main.js": "/hi/static/js/runtime-main.c27c0162.js",
     "runtime-main.js.map": "/hi/static/js/runtime-main.c27c0162.js.map",
     "static/css/2.aa7fcd32.chunk.css": "/hi/static/css/2.aa7fcd32.chunk.css",
-    "static/js/2.4296d4ca.chunk.js": "/hi/static/js/2.4296d4ca.chunk.js",
-    "static/js/2.4296d4ca.chunk.js.map": "/hi/static/js/2.4296d4ca.chunk.js.map",
+    "static/js/2.ddbb7c63.chunk.js": "/hi/static/js/2.ddbb7c63.chunk.js",
+    "static/js/2.ddbb7c63.chunk.js.map": "/hi/static/js/2.ddbb7c63.chunk.js.map",
     "index.html": "/hi/index.html",
-    "precache-manifest.5261f647df2befa3257ece6960015463.js": "/hi/precache-manifest.5261f647df2befa3257ece6960015463.js",
+    "precache-manifest.6a7163ebc7f3bd79d3b9f82092469808.js": "/hi/precache-manifest.6a7163ebc7f3bd79d3b9f82092469808.js",
     "service-worker.js": "/hi/service-worker.js",
     "static/css/2.aa7fcd32.chunk.css.map": "/hi/static/css/2.aa7fcd32.chunk.css.map",
-    "static/css/main.fbcd4ba6.chunk.css.map": "/hi/static/css/main.fbcd4ba6.chunk.css.map",
+    "static/css/main.f6ed4a2f.chunk.css.map": "/hi/static/css/main.f6ed4a2f.chunk.css.map",
     "static/media/1.jpg": "/hi/static/media/1.bee835eb.jpg",
     "static/media/10.jpg": "/hi/static/media/10.9d7f5472.jpg",
     "static/media/11.jpg": "/hi/static/media/11.de4838c9.jpg",
@@ -33,17 +33,19 @@
     "static/media/index.scss": "/hi/static/media/close.75990362.svg",
     "static/media/domed.jpg": "/hi/static/media/domed.2b027532.jpg",
     "static/media/grid.6ade9b89.svg": "/hi/static/media/grid.6ade9b89.svg",
+    "static/media/group.png": "/hi/static/media/group.ac998fe0.png",
     "static/media/icon_one.2f10e6e4.svg": "/hi/static/media/icon_one.2f10e6e4.svg",
     "static/media/list.77849b2e.svg": "/hi/static/media/list.77849b2e.svg",
     "static/media/pay-day.467bad2c.svg": "/hi/static/media/pay-day.467bad2c.svg",
+    "static/media/profile.png": "/hi/static/media/profile.9e785c71.png",
     "static/media/promotion.jpg": "/hi/static/media/promotion.201261be.jpg",
     "static/media/rangeHood.png": "/hi/static/media/rangeHood.a444ba20.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c27c0162.js",
     "static/css/2.aa7fcd32.chunk.css",
-    "static/js/2.4296d4ca.chunk.js",
-    "static/css/main.fbcd4ba6.chunk.css",
-    "static/js/main.5ef1385c.chunk.js"
+    "static/js/2.ddbb7c63.chunk.js",
+    "static/css/main.f6ed4a2f.chunk.css",
+    "static/js/main.771ba68c.chunk.js"
   ]
 }
